@@ -1,0 +1,4 @@
+# Project exclude paths
+/belajar-apache-maven-app/target/
+/belajar-apache-maven-data/target/
+/target/
